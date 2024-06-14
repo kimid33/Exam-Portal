@@ -1,0 +1,22 @@
+
+  /* app.component.css */
+.category-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .category-card {
+    margin: 10px;
+    width: 200px;
+  }
+  
+  mat-card-title {
+    display: flex;
+    align-items: center;
+  }
+  
+  mat-icon {
+    margin-right: 8px;
+  }
+  
